@@ -1,0 +1,11 @@
+C:\alt_root\Coding\Rust\rust_playground\test_project\target\debug\deps\eframe-4b3bad625edd96a4.rmeta: C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\lib.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\epi.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\mod.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\epi_integration.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\run.rs
+
+C:\alt_root\Coding\Rust\rust_playground\test_project\target\debug\deps\libeframe-4b3bad625edd96a4.rlib: C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\lib.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\epi.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\mod.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\epi_integration.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\run.rs
+
+C:\alt_root\Coding\Rust\rust_playground\test_project\target\debug\deps\eframe-4b3bad625edd96a4.d: C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\lib.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\epi.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\mod.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\epi_integration.rs C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\run.rs
+
+C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\lib.rs:
+C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\epi.rs:
+C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\mod.rs:
+C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\epi_integration.rs:
+C:\Users\aless\.cargo\registry\src\github.com-1ecc6299db9ec823\eframe-0.21.3\src\native\run.rs:
